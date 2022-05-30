@@ -15,9 +15,9 @@ As part of this certification, I built the following projects that you can see i
 ```
 
 
-Survey Form
-Tribute Page
-Technical Documentation
-Product Landing Page
-Personal Portfolio Webpage
+- [Survey Form](https://codepen.io/Sandant/full/podrPya)
+- [Tribute Page](https://codepen.io/Sandant/full/ZEaJebB)
+- [Technical Documentation](https://codepen.io/Sandant/full/vYWJZye)
+- [Product Landing Page](https://codepen.io/Sandant/full/BamdReY)
+- [Personal Portfolio Webpage](https://codepen.io/Sandant/full/qBVXjeV)
 
