@@ -12,7 +12,7 @@ The languages that developers use to build webpages:
 - CSS (Cascading Style Sheets) for design.
 
 ## Projects
-As part of this certification, I built the following projects that you can see in CodePen by clicking on the project name below :
+As part of this certification, I built the following projects (that you can see in CodePen by clicking on the project name below) :
 
 ```diff
 - IMPORTANT : those projects were made to complete the task from freeCodeCamp as EXERCISES. They are fictional.
