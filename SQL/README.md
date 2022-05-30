@@ -30,6 +30,7 @@ Identify the name of the database
 ### WHERE 
 The WHERE clause is used to filter records. It is used to extract only those records that fulfill a specified condition.
 The following operators can be used in the WHERE clause:
+ 
  =	Equal	
  >	Greater than	
  <	Less than	
