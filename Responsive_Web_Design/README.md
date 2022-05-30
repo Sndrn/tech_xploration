@@ -18,7 +18,7 @@ As part of this certification, I built the following projects (that you can see 
 - IMPORTANT : those projects were made to complete the task from freeCodeCamp as EXERCISES. They are fictional. (and far from perfect ;))
 ```
 
-It is only front-end projects
+It is front-end projects only
 
 - [Survey Form](https://codepen.io/Sandant/full/podrPya)
 - [Tribute Page](https://codepen.io/Sandant/full/ZEaJebB)
