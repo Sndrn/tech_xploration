@@ -15,7 +15,7 @@ The languages that developers use to build webpages:
 As part of this certification, I built the following projects (that you can see in CodePen by clicking on the project name below) :
 
 ```diff
-- IMPORTANT : those projects were made to complete the task from freeCodeCamp as EXERCISES. They are fictional. (and far from perfect ;))
+- IMPORTANT : those projects were made to complete the task from freeCodeCamp as EXERCISES. They are FICTIONAL. (and far from perfect ;))
 ```
 
 It is front-end projects only
