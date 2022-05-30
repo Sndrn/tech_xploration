@@ -10,8 +10,7 @@ freeCodeCamp is a non-profit organization that consists of an interactive learni
 
 
 As part of this certification, I built the following projects that you can see in CodePen:
-```diff
-- IMPORTANT : those projects were made to complete the task from freeCodeCamp as EXERCISES. They are fictional.
+```diff-IMPORTANT : those projects were made to complete the task from freeCodeCamp as EXERCISES. They are fictional.
 ```
 
 
