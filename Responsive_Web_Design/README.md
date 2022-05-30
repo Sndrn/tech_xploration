@@ -7,17 +7,19 @@ freeCodeCamp is a non-profit organization that consists of an interactive learni
 
 
 # What I've learned
+The languages that developers use to build webpages: 
+- HTML (Hypertext Markup Language) for content, and 
+- CSS (Cascading Style Sheets) for design.
 
+## Projects
+As part of this certification, I built the following projects that you can see in CodePen by clicking on the project name below :
 
-As part of this certification, I built the following projects that you can see in CodePen:
 ```diff
 - IMPORTANT : those projects were made to complete the task from freeCodeCamp as EXERCISES. They are fictional.
 ```
-
 
 - [Survey Form](https://codepen.io/Sandant/full/podrPya)
 - [Tribute Page](https://codepen.io/Sandant/full/ZEaJebB)
 - [Technical Documentation](https://codepen.io/Sandant/full/vYWJZye)
 - [Product Landing Page](https://codepen.io/Sandant/full/BamdReY)
 - [Personal Portfolio Webpage](https://codepen.io/Sandant/full/qBVXjeV)
-
