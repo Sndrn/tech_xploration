@@ -1,7 +1,7 @@
 # HackerRank Certification
 
 ### About HackerRank
-HackerRank is a tech company that focuses on competitive programming challenges for both consumers and businesses. Developers compete by trying to program according to provided specifications. HackerRank's programming challenges can be solved in a variety of programming languages (including Java, C++, PHP, Python, SQL, JavaScript) and span multiple computer science domains.
+[HackerRank](https://www.hackerrank.com/) is a tech company that focuses on competitive programming challenges for both consumers and businesses. Developers compete by trying to program according to provided specifications. HackerRank's programming challenges can be solved in a variety of programming languages (including Java, C++, PHP, Python, SQL, JavaScript) and span multiple computer science domains.
 
 ![sql](https://user-images.githubusercontent.com/89401289/171036293-88cce25e-10a3-46ec-af8c-3f4dc97ee14e.png)
 
