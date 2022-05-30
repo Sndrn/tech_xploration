@@ -7,7 +7,7 @@
 
 
 # What I've learned
-The languages that developers use to build webpages: 
+The languages that developers use to build webpages (basics) : 
 - HTML (Hypertext Markup Language) for content, and 
 - CSS (Cascading Style Sheets) for design.
 
